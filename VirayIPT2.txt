@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Hey I'm John Reanne P. Viray
 hey I'm Ros P. Boyboy
 hey asa akong gi commit
-=======
 YOUR not viray, Im chistopher dsfdsf
->>>>>>> c2bbf01987394f6068e064c372367e17cddfcb7c
