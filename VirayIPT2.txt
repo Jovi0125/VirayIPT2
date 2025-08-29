@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hey I'm Hey
 hey I'm Ros P. Boyboy
 asdlkskkksd
@@ -7,3 +8,12 @@ yw
 
 Hey
 e9c9b2d (yo?)
+=======
+Hey I'm John Reanne P. Viray
+hey I'm Ros P. Boyboy
+asdlkskkksd
+
+yawa kaaa viray
+xcnakjkaskass
+asdaksdjkjasd
+>>>>>>> dfe29e436d50fb04c5d5640455a10c74eda505e5
